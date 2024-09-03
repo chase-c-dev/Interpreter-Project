@@ -6,26 +6,37 @@ Every user entered command is tokenized and the tokens for the expressions are w
 
 Here Are Some Test Cases
 Your project needs to get correct results from the test cases like the below:
->>> 1 * ( 2 + 5 )
+
+1 * ( 2 + 5 )
 The result is: 7
->>> (1 + 2) * 5 + 4
+
+(1 + 2) * 5 + 4
 The result is: 19
->>> 23 * ((1 + 5) * 33)
+
+23 * ((1 + 5) * 33)
 The result is: 4554
->>> 5 – 13 / 21 + 21 * 6
+
+5 – 13 / 21 + 21 * 6
 The result is: 130.38095238095238
->>> 24
+
+24
 The result is: 24
->>> 125
+
+125
 The result is: 125
->>> -5
+
+-5
 The result is: -5
+
 Page 2 of 2
->>> --5 
+--5 
 The result is: 5
->>> -(-5)
+
+-(-5)
 The result is: 5
->>> - 5 + 6 * 19
+
+- 5 + 6 * 19
 The result is: 109
->>> exit
+
+exit
 Now it is time to exit.
