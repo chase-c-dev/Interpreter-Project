@@ -43,7 +43,7 @@ The result is: 5
 
 The result is: 5
 
-- 5 + 6 * 19
+-5 + 6 * 19
 
 The result is: 109
 
