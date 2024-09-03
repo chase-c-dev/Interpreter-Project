@@ -1,10 +1,14 @@
 # Interpreter-Project
+
 Organization of Programming Languages Project that creates a mini programming language
 
 The program evaluates user entered expressions just as a programming language would by using parser, lexer and evaluater logic.
+
 Every user entered command is tokenized and the tokens for the expressions are what is used to parse, lex and evaluate.
 
+
 Here Are Some Test Cases
+
 Your project needs to get correct results from the test cases like the below:
 
 1 * ( 2 + 5 )
